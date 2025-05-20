@@ -31,7 +31,7 @@ import java.util.Map;
 public class AiChatBotServiceImpl implements AiChatBotService {
 
 
-    String GEMINI_API_KEY = "AIzaSyDp-jeRRqqbr08scpIn1p9rLEL_Nqv5Zuo";
+    String GEMINI_API_KEY = "yourapikey";
 
     private final CartRepository cartRepository;
 
